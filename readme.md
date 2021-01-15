@@ -1,6 +1,6 @@
 Who Are We?
 ===========
-![Photo of 5 students from University of Waterloo](formagine.github.io\team.png "The Team")
+![Photo of 5 students from University of Waterloo](formagine.github.io\images\team.png "The Team")
 
 We are four mechatronics engineering students at the University of Waterloo that are creating a desktop vacuum forming device with a reusable buck! This website will follow our progress while building and testing the machine. Our goal is to have a completely functional machine by March 19, 2021.
 Here's a closer look at our team:
