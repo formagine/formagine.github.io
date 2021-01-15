@@ -2,3 +2,4 @@ theme: jekyll-theme-midnight
 paginate: 5
 
 title: Formagine
+baseurl: ""
