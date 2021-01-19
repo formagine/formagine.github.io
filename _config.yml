@@ -1,4 +1,21 @@
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+title:              Formagine
+email:              formagine@gmail.com
+description:        A Blog Theme by Start Bootstrap
+author:             Start Bootstrap
+baseurl:            ""
 
-title: Formagine
-baseurl: ""
+# Social Profiles
+twitter_username:   Formagine2020
+github_username:    
+facebook_username:  
+instagram_username:  formagine2020
+linkedin_username:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
