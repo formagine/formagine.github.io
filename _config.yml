@@ -4,16 +4,12 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            ""
 
-
 # Social Profiles
 twitter_username:   Formagine2020
 github_username:    
 facebook_username:  
-instagram_username: formagine2020 
+instagram_username:  formagine2020
 linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
